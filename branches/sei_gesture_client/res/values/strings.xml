@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to the SEI Gesture App!</string>
+    <string name="app_name">SEI Gesture</string>
+    <string name="gesture_not_recognized">Gesture not recognized</string>
+    <string name="sos">S.O.S. Recognized</string>
+    <string name="supplies">Supplies Here Recognized</string>
+    <string name="input_direction">Please input direction</string>
+    <string name="vehicle_moving">Vehicle Moving Recognized</string>
+    <string name="txt_train_gestures">Training</string>
+    <string name="txt_settings">Settings</string>
+    
+    
+</resources>
